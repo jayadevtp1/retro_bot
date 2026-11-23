@@ -1,7 +1,7 @@
 ---
 title: "Desktop Bot"
 github: ["Retro_Bot"](https://github.com/jayadevtp1/retro_bot/)
-description: "A mini AI companion robot that sits on my desk. It has an animated face, a rotating head that turns and dances, and built-in voice so i can chat. A front eye cam to see me."
+description: "A mini AI companion robot that sits on my desk. It has an animated face, a rotating head that turns and dances, and built-in voice so I can chat. A front eye cam to see me."
 created_at: "2026-11-21"
 total_time: "7h"
 ---
