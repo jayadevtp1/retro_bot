@@ -13,3 +13,5 @@ and emotions on a crisp 2-inch LCD screen.
 • Desk Utilities: Doubles as a handy desk gadget with a digital clock and ambient temperature display.
 
 • Capacitive Touch Interaction: Responds to gentle taps and head pats with playful expressions and reactions.
+
+<img width="512" height="344" alt="image" src="https://github.com/user-attachments/assets/0a85dd35-1fd4-48f5-9bb8-c55be3788541" />
