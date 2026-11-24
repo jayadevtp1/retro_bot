@@ -33,3 +33,4 @@ Id,Designator,Footprint,Quantity,Designation,Unit Cost (INR),Total Cost (INR),Su
 32,U8,SOT-23-6_Handsoldering,1,FS8205A,9,9,https://robu.in/product/1-month-warranty-398/
 33,RGB1,LED_D5.0mm-4_RGB,1,5mm_RGB_LED_Common_Cathode,5,5,https://robu.in/product/rgb-common-anode-led/
 34,LCD1,ILI9225_2.0_TFT_SPI_11P,1,2.0_Inch_SPI_TFT_LCD_ILI9225_176x220,679,679,https://robu.in/product/2-0-inch-spi-tft-lcd-color-screen-module-ili9225-serial-interface-176-x-220/
+35,Speaker,"D57*H13mm 8 ohm 0.5W 92±3dB round speaker",1,"D57*H13mm 8 ohm 0.5W 92±3dB round speaker",120,120,https://robu.in/product/d57h13mm-8-ohm-05w-92plus-minus3db-round-speaker/
