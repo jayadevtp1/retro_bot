@@ -7,7 +7,7 @@ Id,Designator,Footprint,Quantity,Designation,Unit Cost (INR),Total Cost (INR),Su
 6,D1,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,RED,1,1,https://robu.in/product/ltst-c170krkt-lite-on-20ma-54mcd-colorless-transparent-lens-55%E2%84%8385%E2%84%83-631nm-red-130-75mw-2v-0805-led-indication-discrete-rohs/
 7,D2,LED_0603_1608Metric,1,LED_0603_RED,1,1,https://robu.in/product/ntl-led-red-clear-0603-smd/
 8,D3,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,GREEN,2,2,https://robu.in/product/17-21-ghc-yr1s2-3t-everlight-green-528nm-led-indication-discrete-3-3v-0805-2012-metric/
-9,J1,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,USB_C_Receptacle_USB2.0_16P,83.57,83.57,https://in.element14.com/gct-global-connector-technology/usb4105-gf-a/usb-conn-2-0-type-c-rcpt-16pos/dp/3588205
+9,J1,USB_C_Receptacle_XKB_U262-161N-4BVC11_16P,1,USB_C_Receptacle_USB2.0_16P,35,35,https://robu.in/product/1-month-warranty-1043/
 10,"J2, J3",PinHeader_1x22_P2.54mm_Vertical,2,Conn_01x22_Pin,10,20,https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/
 11,J4,PinHeader_1x11_P2.54mm_Vertical,1,Conn_01x11_Pin,6,6,https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/
 12,J5,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,4,4,https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/
@@ -23,8 +23,8 @@ Id,Designator,Footprint,Quantity,Designation,Unit Cost (INR),Total Cost (INR),Su
 22,R14,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,10k,1,1,https://robu.in/product/rc0805fr-0710kl-yageo-res-thick-film-0805-10k-ohm-1-0-125w1-8w-%C2%B1100ppm-c-pad-smd-t-r/
 23,R16,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,0R,1,1,https://robu.in/product/rc1206jr-070rl-yageo-zero-ohm-resistor-jumper-1206-3216-metric-thick-film-250-mw-2-a-surface-mount-device-pack-of-10/
 24,R17,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,100,1,1,https://robu.in/product/100-ohm-1-4w-0805-surface-mount-chip-resistor-10-pcs/
-25,U1,DIO_DT1240-04LP-7,1,D3V3XA4B10LP,44,44,https://www.mouser.in/en/ProductDetail/Diodes-Incorporated/D3V3XA4B10LP-7?qs=gZXFycFWdAPojYkoyRsLeQ%3D%3D
-26,U2,WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm,1,TLV75801PDRV,34,34,https://www.mouser.in/en/ProductDetail/Texas-Instruments/TLV75801PDRVR?qs=PqoDHHvF64%2FZ6DyDKfEo8A%3D%3D
+25,U1,DIO_DT1240-04LP-7,1,D3V3XA4B10LP,23,23,https://robu.in/product/d3v3xa4b10lp-7-diodes-incorporated-4a8-20us-24w-9-4v-5v-3-3v-udfn2510-10-esd-and-surge-protection-tvs-esd-rohs/
+26,U2,SOT-23-5,1,TLV75801PDBV,14,14,https://robu.in/product/tlv75801pdbvr-texas-instruments-500ma-adjustable-550mv5-5v-positive-electrode-6v-sot-23-5-voltage-regulators-linear-low-drop-out-ldo-regulators-rohs/
 27,U3,adafruit-MAX98357,1,adafruit-MAX98357,179,179,https://robu.in/product/bgamax98357-i2s-amplifier-breakout-interface-decoder-module-without-soldering/
 28,U4,XCVR_ESP32-S3-MINI-1-N8,1,ESP32-S3-MINI-1-N8,279,279,https://robu.in/product/espressif-esp32-s3-mini-1-n8-module/
 29,U5,GY-521_MPU6050_Module,1,MPU-6050,199,199,https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/
@@ -35,6 +35,6 @@ Id,Designator,Footprint,Quantity,Designation,Unit Cost (INR),Total Cost (INR),Su
 34,LCD1,ILI9225_2.0_TFT_SPI_11P,1,2.0_Inch_SPI_TFT_LCD_ILI9225_176x220,483,483,https://robu.in/product/2-0-inch-spi-tft-lcd-color-screen-module-ili9225-serial-interface-176-x-220/
 35,Speaker,D57*H13mm 8 ohm 0.5W 92±3dB round speaker,1,D57*H13mm 8 ohm 0.5W 92±3dB round speaker,120,120,https://robu.in/product/d57h13mm-8-ohm-05w-92plus-minus3db-round-speaker/
 36,BT1,Battery_LiPo_1S_WireLeads,1,3.7V_1500mAh_LiPo_KP683040,249,249,https://quartzcomponents.com/products/3-7v-1500mah-li-po-rechargeable-battery
-TOTAL,Components only,,,,,1813.57,
+TOTAL,Components only,,,,,1859.00,
 37,PCB1,PCB_Fabrication_Green_1.6mm_OSP (Incl. Shipping),5,Gerber_Y8 (JLCPCB - $11.91 USD),221.35,1106.73,https://jlcpcb.com
-TOTAL,Including PCB cost,,,,,2920.30,
+TOTAL,Including PCB cost,,,,,2965.73,$31.89
