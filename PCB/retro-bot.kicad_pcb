@@ -4440,7 +4440,7 @@
 			(at -0.35 0)
 			(size 0.7 0.45)
 			(layers "F.Cu" "F.Paste")
-			(net "Net-(U1-VSS-Pad3)")
+			(net "Earth")
 			(pinfunction "VSS_3")
 			(pintype "power_in")
 			(uuid "c0bdfa44-5f38-4398-b020-753d9f501757")
@@ -4483,7 +4483,7 @@
 			(at 0.4125 0)
 			(size 0.575 0.45)
 			(layers "F.Cu" "F.Paste")
-			(net "Net-(U1-VSS-Pad3)")
+			(net "Earth")
 			(pinfunction "VSS_8")
 			(pintype "passive")
 			(uuid "291623d1-2433-4ca0-b9f5-fdc9b3efc70b")
@@ -5021,7 +5021,7 @@
 			(uuid "a7fb592e-0fd2-451c-8b05-9fa8a79525e7")
 		)
 		(embedded_fonts no)
-		(model "/home/Jayadev/Downloads/OC09600/OC09600.step"
+		(model "/home/jayadev/Downloads/OC09600/OC09600.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6917,7 +6917,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/home/Jayadev/Downloads/ESP32-S3-MINI-1-N8/ESP32-S3-MINI-1-N8.step"
+		(model "/home/jayadev/Downloads/ESP32-S3-MINI-1-N8/ESP32-S3-MINI-1-N8.step"
 			(offset
 				(xyz 0 3 0)
 			)
@@ -13900,6 +13900,14 @@
 		(uuid "c0f5c08c-38fc-49b2-bbbd-236155b5ee00")
 	)
 	(segment
+		(start 94.5375 84)
+		(end 93.7222 84)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Earth")
+		(uuid "c1b999c9-7d6b-40a5-a56b-adfea9e0fc64")
+	)
+	(segment
 		(start 103.5 71.775)
 		(end 103 72.275)
 		(width 0.2)
@@ -14052,6 +14060,14 @@
 		(uuid "e69339cd-5866-405e-a8a2-b48f0ba4735f")
 	)
 	(segment
+		(start 94.5375 84)
+		(end 95.3 84)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Earth")
+		(uuid "e90e8855-28e2-4bd3-aea1-775d2fae222d")
+	)
+	(segment
 		(start 100.49 70.4017)
 		(end 100.75 70.4017)
 		(width 0.2)
@@ -14115,6 +14131,14 @@
 		(net "Earth")
 		(uuid "fe9b1a57-ef96-4370-9600-8d3279e80e0d")
 	)
+	(segment
+		(start 93.7222 84)
+		(end 93.6722 83.95)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Earth")
+		(uuid "fea11345-6681-4990-95b7-78f38c828229")
+	)
 	(via
 		(at 94.7154 89.1187)
 		(size 0.6)
@@ -14122,6 +14146,14 @@
 		(layers "F.Cu" "B.Cu")
 		(net "Earth")
 		(uuid "4830d261-ca26-4164-b00a-80506b0c36dc")
+	)
+	(via
+		(at 93.6722 83.95)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "Earth")
+		(uuid "66bc47be-b45d-43e9-ac9f-1ce96637d39f")
 	)
 	(via
 		(at 58.23 58.5464)
@@ -14178,6 +14210,14 @@
 		(layer "B.Cu")
 		(net "Earth")
 		(uuid "10ae06fe-6257-42b7-86d3-8b3838f8e1e2")
+	)
+	(segment
+		(start 93.6722 83.95)
+		(end 93.6722 87.3278)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "Earth")
+		(uuid "1bb78429-a5a0-424d-ac28-eed75af133c5")
 	)
 	(segment
 		(start 58.23 61.05)
@@ -14300,12 +14340,28 @@
 		(uuid "90078814-542a-49e7-9cb3-2bc1f774a465")
 	)
 	(segment
+		(start 93.6722 87.3278)
+		(end 92.75 88.25)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "Earth")
+		(uuid "93cfa651-480a-444d-866b-bda935633799")
+	)
+	(segment
 		(start 76.2808 83.4794)
 		(end 74.2906 83.4794)
 		(width 0.2)
 		(layer "B.Cu")
 		(net "Earth")
 		(uuid "9dbcc494-4d78-469c-a2b1-851e66abb28d")
+	)
+	(segment
+		(start 92.75 88.25)
+		(end 89.75 88.25)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "Earth")
+		(uuid "a9bfd64c-e2b7-4001-b4f3-0015bd690a6a")
 	)
 	(segment
 		(start 53.6825 77.46)
@@ -20842,14 +20898,6 @@
 		(layer "B.Cu")
 		(net "/USB-")
 		(uuid "f06a767a-7c6c-4b28-84eb-462f40665c24")
-	)
-	(segment
-		(start 94.5375 84)
-		(end 95.3 84)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(U1-VSS-Pad3)")
-		(uuid "e90e8855-28e2-4bd3-aea1-775d2fae222d")
 	)
 	(segment
 		(start 89.7 59.3)
