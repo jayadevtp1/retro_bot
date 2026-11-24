@@ -1,35 +1,35 @@
 Id,Designator,Footprint,Quantity,Designation,Unit Cost (INR),Total Cost (INR),Supplier and ref
-1,"BOOT1, RESET1",SW_PUSH_6mm,2,SW_MEC_5E,1.90,3.80,https://robu.in/product/6x6x5-tactile-push-button-switch/
-2,"C1, C3, C7",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,3,10uF,2.00,6.00,https://robu.in/product-category/mlccs-multi-layer-ceramic-capacitors/
-3,"C2, C9",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,0.1uF,1.50,3.00,https://robu.in/product-category/mlccs-multi-layer-ceramic-capacitors/
-4,"C4, C5, C6",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,3,0.1uF,1.50,4.50,https://robu.in/product/mc0603b104k100ct-murata-smd-multilayer-ceramic-capacitor-0-1-%C2%B5f-10-v-0603-1608-metric-%C2%B1-10-x7r-mc/
-5,C8,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,10uF,2.50,2.50,https://robu.in/product-category/mlccs-multi-layer-ceramic-capacitors/
-6,D1,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,RED,0.97,0.97,https://robu.in/product/0805-surface-mount-led-red-50-pcs/
-7,D2,LED_0603_1608Metric,1,LED,1.00,1.00,https://robu.in/product-category/smd-led/
-8,D3,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,GREEN,0.54,0.54,https://robu.in/product/0805-surface-mount-led-green-50-pcs/
-9,J1,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,USB_C_Receptacle_USB2.0_16P,83.57,83.57,https://in.element14.com/gct-global-connector-technology/usb4105-gf-a/usb-conn-2-0-type-c-rcpt-16pos/dp/3588205
-10,"J2, J3",PinHeader_1x22_P2.54mm_Vertical,2,Conn_01x22_Pin,10.00,20.00,https://robu.in/product/2-54mm-pitch-40-pin-male-double-row-2x20-pin-header-strip-breakable-2pcs/
-11,J4,PinHeader_1x11_P2.54mm_Vertical,1,Conn_01x11_Pin,6.00,6.00,https://robu.in/product/2-54mm-pitch-40-pin-male-double-row-2x20-pin-header-strip-breakable-2pcs/
-12,J5,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,4.00,4.00,https://robu.in/product/2-54mm-pitch-40-pin-male-double-row-2x20-pin-header-strip-breakable-2pcs/
-13,"J9, J11, J12",PinSocket_1x01_P2.54mm_Vertical,3,Conn_01x01_Female,5.00,15.00,https://robu.in/product/2-54mm-1x20-pin-female-single-row-straight-header-strip-pack-of-5/
-14,M1,PinHeader_1x06_P2.54mm_Vertical,1,INMP441_Mic_Header,5.00,5.00,https://robu.in/product/2-54mm-pitch-40-pin-male-double-row-2x20-pin-header-strip-breakable-2pcs/
-15,"R1, R2",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2,5.1k,0.40,0.80,https://robu.in/product-category/film-resistors/
-16,R3,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,1M,0.40,0.40,https://robu.in/product-category/film-resistors/
-17,R4,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,200k,0.40,0.40,https://robu.in/product-category/film-resistors/
-18,R5,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,680,0.40,0.40,https://robu.in/product-category/film-resistors/
-19,"R6, R7, R8",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3,10k,0.40,1.20,https://robu.in/product-category/film-resistors/
-20,"R9, R10, R11",R_0805_2012Metric,3,120ohm,0.40,1.20,https://robu.in/product-category/film-resistors/
-21,"R12, R13, R15",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3,1k,0.40,1.20,https://robu.in/product-category/film-resistors/
-22,R14,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,10k,0.51,0.51,https://robu.in/product/rc0805fr-0710kl-yageo-res-thick-film-0805-10k-ohm-1-0-125w1-8w-%C2%B1100ppm-c-pad-smd-t-r/
-23,R16,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,0R,0.39,0.39,https://robu.in/product/rc1206jr-070rl-yageo-zero-ohm-resistor-jumper-1206-3216-metric-thick-film-250-mw-2-a-surface-mount-device-pack-of-10/
-24,R17,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,100,0.40,0.40,https://robu.in/product-category/film-resistors/
-25,U1,DIO_DT1240-04LP-7,1,D3V3XA4B10LP,43.95,43.95,https://www.mouser.in/en/ProductDetail/Diodes-Incorporated/D3V3XA4B10LP-7?qs=gZXFycFWdAPojYkoyRsLeQ%3D%3D
-26,U2,WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm,1,TLV75801PDRV,33.44,33.44,https://www.mouser.in/en/ProductDetail/Texas-Instruments/TLV75801PDRVR?qs=PqoDHHvF64%2FZ6DyDKfEo8A%3D%3D
-27,U3,adafruit-MAX98357,1,adafruit-MAX98357,179.00,179.00,https://robu.in/product/bgamax98357-i2s-amplifier-breakout-interface-decoder-module-without-soldering/
-28,U4,XCVR_ESP32-S3-MINI-1-N8,1,ESP32-S3-MINI-1-N8,399.00,399.00,https://robu.in/product/espressif-esp32-s3-mini-1-n8-module/
-29,U5,GY-521_MPU6050_Module,1,MPU-6050,199.00,199.00,https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/
-30,U6,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm,1,TP4056,13.00,13.00,https://robu.in/product/1-month-warranty-1253/
-31,U7,SOT-23-6_Handsoldering,1,DW01,8.00,8.00,https://robu.in/product/dw01-a-j-fumen-electronics-co-ltd-protection-ic-for-one-cell-lithium-ion-lithium-polymer-battery-pack-sot-23-6/
-32,U8,SOT-23-6_Handsoldering,1,FS8205A,9.00,9.00,https://robu.in/product/1-month-warranty-398/
-33,RGB1,LED_D5.0mm-4_RGB,1,5mm_RGB_LED_Common_Cathode,5.00,5.00,https://robu.in/product/rgb-common-anode-led/
-34,LCD1,ILI9225_2.0_TFT_SPI_11P,1,2.0_Inch_SPI_TFT_LCD_ILI9225_176x220,679.00,679.00,https://robu.in/product/2-0-inch-spi-tft-lcd-color-screen-module-ili9225-serial-interface-176-x-220/
+1,"BOOT1, RESET1",SW_PUSH_6mm,2,SW_MEC_5E,2,4,https://robu.in/product/6x6x5-tactile-push-button-switch/
+2,"C1, C3, C7",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,3,10uF,2,6,https://robu.in/product-category/mlccs-multi-layer-ceramic-capacitors/
+3,"C2, C9",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,0.1uF,2,4,https://robu.in/product-category/mlccs-multi-layer-ceramic-capacitors/
+4,"C4, C5, C6",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,3,0.1uF,2,6,https://robu.in/product/mc0603b104k100ct-murata-smd-multilayer-ceramic-capacitor-0-1-%C2%B5f-10-v-0603-1608-metric-%C2%B1-10-x7r-mc/
+5,C8,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,10uF,3,3,https://robu.in/product-category/mlccs-multi-layer-ceramic-capacitors/
+6,D1,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,RED,1,1,https://robu.in/product/0805-surface-mount-led-red-50-pcs/
+7,D2,LED_0603_1608Metric,1,LED,1,1,https://robu.in/product-category/smd-led/
+8,D3,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,GREEN,1,1,https://robu.in/product/0805-surface-mount-led-green-50-pcs/
+9,J1,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,USB_C_Receptacle_USB2.0_16P,84,84,https://in.element14.com/gct-global-connector-technology/usb4105-gf-a/usb-conn-2-0-type-c-rcpt-16pos/dp/3588205
+10,"J2, J3",PinHeader_1x22_P2.54mm_Vertical,2,Conn_01x22_Pin,10,20,https://robu.in/product/2-54mm-pitch-40-pin-male-double-row-2x20-pin-header-strip-breakable-2pcs/
+11,J4,PinHeader_1x11_P2.54mm_Vertical,1,Conn_01x11_Pin,6,6,https://robu.in/product/2-54mm-pitch-40-pin-male-double-row-2x20-pin-header-strip-breakable-2pcs/
+12,J5,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,4,4,https://robu.in/product/2-54mm-pitch-40-pin-male-double-row-2x20-pin-header-strip-breakable-2pcs/
+13,"J9, J11, J12",PinSocket_1x01_P2.54mm_Vertical,3,Conn_01x01_Female,5,15,https://robu.in/product/2-54mm-1x20-pin-female-single-row-straight-header-strip-pack-of-5/
+14,M1,PinHeader_1x06_P2.54mm_Vertical,1,INMP441_Mic_Header,5,5,https://robu.in/product/2-54mm-pitch-40-pin-male-double-row-2x20-pin-header-strip-breakable-2pcs/
+15,"R1, R2",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2,5.1k,1,2,https://robu.in/product-category/film-resistors/
+16,R3,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,1M,1,1,https://robu.in/product-category/film-resistors/
+17,R4,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,200k,1,1,https://robu.in/product-category/film-resistors/
+18,R5,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,680,1,1,https://robu.in/product-category/film-resistors/
+19,"R6, R7, R8",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3,10k,1,3,https://robu.in/product-category/film-resistors/
+20,"R9, R10, R11",R_0805_2012Metric,3,120ohm,1,3,https://robu.in/product-category/film-resistors/
+21,"R12, R13, R15",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3,1k,1,3,https://robu.in/product-category/film-resistors/
+22,R14,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,10k,1,1,https://robu.in/product/rc0805fr-0710kl-yageo-res-thick-film-0805-10k-ohm-1-0-125w1-8w-%C2%B1100ppm-c-pad-smd-t-r/
+23,R16,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,0R,1,1,https://robu.in/product/rc1206jr-070rl-yageo-zero-ohm-resistor-jumper-1206-3216-metric-thick-film-250-mw-2-a-surface-mount-device-pack-of-10/
+24,R17,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,100,1,1,https://robu.in/product-category/film-resistors/
+25,U1,DIO_DT1240-04LP-7,1,D3V3XA4B10LP,44,44,https://www.mouser.in/en/ProductDetail/Diodes-Incorporated/D3V3XA4B10LP-7?qs=gZXFycFWdAPojYkoyRsLeQ%3D%3D
+26,U2,WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm,1,TLV75801PDRV,34,34,https://www.mouser.in/en/ProductDetail/Texas-Instruments/TLV75801PDRVR?qs=PqoDHHvF64%2FZ6DyDKfEo8A%3D%3D
+27,U3,adafruit-MAX98357,1,adafruit-MAX98357,179,179,https://robu.in/product/bgamax98357-i2s-amplifier-breakout-interface-decoder-module-without-soldering/
+28,U4,XCVR_ESP32-S3-MINI-1-N8,1,ESP32-S3-MINI-1-N8,399,399,https://robu.in/product/espressif-esp32-s3-mini-1-n8-module/
+29,U5,GY-521_MPU6050_Module,1,MPU-6050,199,199,https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/
+30,U6,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm,1,TP4056,13,13,https://robu.in/product/1-month-warranty-1253/
+31,U7,SOT-23-6_Handsoldering,1,DW01,8,8,https://robu.in/product/dw01-a-j-fumen-electronics-co-ltd-protection-ic-for-one-cell-lithium-ion-lithium-polymer-battery-pack-sot-23-6/
+32,U8,SOT-23-6_Handsoldering,1,FS8205A,9,9,https://robu.in/product/1-month-warranty-398/
+33,RGB1,LED_D5.0mm-4_RGB,1,5mm_RGB_LED_Common_Cathode,5,5,https://robu.in/product/rgb-common-anode-led/
+34,LCD1,ILI9225_2.0_TFT_SPI_11P,1,2.0_Inch_SPI_TFT_LCD_ILI9225_176x220,679,679,https://robu.in/product/2-0-inch-spi-tft-lcd-color-screen-module-ili9225-serial-interface-176-x-220/
