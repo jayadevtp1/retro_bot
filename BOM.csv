@@ -1,0 +1,35 @@
+
+| Id | Designator | Component Name | Footprint | Quantity | Unit Cost (INR) | Total Cost (INR) | Supplier |
+| :- | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
+| 1 | BOOT1, RESET1 | Tactile Push Button Switch | `SW_PUSH_6mm` | 2 | 1.90 | 3.80 | [Robu.in](https://robu.in) |
+| 2 | C1, C3, C7 | 10uF MLCC Capacitor | `C_0603_1608Metric` | 3 | 2.00 | 6.00 | [Robu.in](https://robu.in) |
+| 3 | C2, C9 | 0.1uF MLCC Capacitor | `C_0805_2012Metric` | 2 | 1.50 | 3.00 | [Robu.in](https://robu.in) |
+| 4 | C4, C5, C6 | 0.1uF MLCC Capacitor | `C_0603_1608Metric` | 3 | 1.50 | 4.50 | [Robu.in](https://robu.in) |
+| 5 | C8 | 10uF MLCC Capacitor | `C_0805_2012Metric` | 1 | 2.50 | 2.50 | [Robu.in](https://robu.in) |
+| 6 | D1 | RED SMD LED | `LED_0805_2012Metric` | 1 | 0.97 | 0.97 | [Robu.in](https://robu.in) |
+| 7 | D2 | Indicator SMD LED | `LED_0603_1608Metric` | 1 | 1.00 | 1.00 | [Robu.in](https://robu.in) |
+| 8 | D3 | GREEN SMD LED | `LED_0805_2012Metric` | 1 | 0.54 | 0.54 | [Robu.in](https://robu.in) |
+| 9 | J1 | GCT USB4105-GF-A USB-C Receptacle | `USB_C_Receptacle_GCT_USB4105-xx-A_16P` | 1 | 83.57 | 83.57 | [Element14](https://element14.com) |
+| 10 | J2, J3 | Conn_01x22_Pin Male Header | `PinHeader_1x22_P2.54mm_Vertical` | 2 | 10.00 | 20.00 | [Robu.in](https://robu.in) |
+| 11 | J4 | Conn_01x11_Pin Male Header | `PinHeader_1x11_P2.54mm_Vertical` | 1 | 6.00 | 6.00 | [Robu.in](https://robu.in) |
+| 12 | J9, J11, J12 | Conn_01x01_Female Socket | `PinSocket_1x01_P2.54mm_Vertical` | 3 | 5.00 | 15.00 | [Robu.in](https://robu.in) |
+| 13 | M1 | Conn_01x06_Pin Male Header | `PinHeader_1x06_P2.54mm_Vertical` | 1 | 5.00 | 5.00 | [Robu.in](https://robu.in) |
+| 14 | R1, R2 | 5.1k Ohm SMD Resistor | `R_0603_1608Metric` | 2 | 0.40 | 0.80 | [Robu.in](https://robu.in) |
+| 15 | R3 | 1M Ohm SMD Resistor | `R_0603_1608Metric` | 1 | 0.40 | 0.40 | [Robu.in](https://robu.in) |
+| 16 | R4 | 200k Ohm SMD Resistor | `R_0603_1608Metric` | 1 | 0.40 | 0.40 | [Robu.in](https://robu.in) |
+| 17 | R5 | 680 Ohm SMD Resistor | `R_0603_1608Metric` | 1 | 0.40 | 0.40 | [Robu.in](https://robu.in) |
+| 18 | R6, R7, R8 | 10k Ohm SMD Resistor | `R_0603_1608Metric` | 3 | 0.40 | 1.20 | [Robu.in](https://robu.in) |
+| 19 | R9, R10, R11 | 120 Ohm SMD Resistor | `R_0805_2012Metric` | 3 | 0.40 | 1.20 | [Robu.in](https://robu.in) |
+| 20 | R12, R13, R15 | 1k Ohm SMD Resistor | `R_0603_1608Metric` | 3 | 0.40 | 1.20 | [Robu.in](https://robu.in) |
+| 21 | R14 | 10k Ohm SMD Resistor | `R_0805_2012Metric` | 1 | 0.51 | 0.51 | [Robu.in](https://robu.in) |
+| 22 | R16 | 0R Jumper SMD Resistor | `R_1206_3216Metric` | 1 | 0.39 | 0.39 | [Robu.in](https://robu.in) |
+| 23 | R17 | 100 Ohm SMD Resistor | `R_0805_2012Metric` | 1 | 0.40 | 0.40 | [Robu.in](https://robu.in) |
+| 24 | U1 | D3V3XA4B10LP-7 ESD Protection | `DIO_DT1240-04LP-7` | 1 | 43.95 | 43.95 | [Mouser.in](https://mouser.in) |
+| 25 | U2 | TLV75801PDRVR LDO Regulator | `WSON-6-1EP_2x2mm` | 1 | 33.44 | 33.44 | [Mouser.in](https://mouser.in) |
+| 26 | U3 | MAX98357 I2S Amplifier Module | `adafruit-MAX98357` | 1 | 179.00 | 179.00 | [Robu.in](https://robu.in) |
+| 27 | U4 | ESP32-S3-MINI-1-N8 Module | `XCVR_ESP32-S3-MINI-1-N8` | 1 | 399.00 | 399.00 | [Robu.in](https://robu.in) |
+| 28 | U5 | MPU-6050 IMU Module (OC09600) | `MODULE_OC09600` | 1 | 199.00 | 199.00 | [Robu.in](https://robu.in) |
+| 29 | U6 | TP4056 Li-Ion Charger IC | `SOIC-8-1EP` | 1 | 13.00 | 13.00 | [Robu.in](https://robu.in) |
+| 30 | U7 | DW01 Battery Protection IC | `SOT-23-6` | 1 | 8.00 | 8.00 | [Robu.in](https://robu.in) |
+| 31 | U8 | FS8205A Dual MOSFET | `SOT-23-6` | 1 | 9.00 | 9.00 | [Robu.in](https://robu.in) |
+| | | **Total** | | **47** | | **1043.17** | |
