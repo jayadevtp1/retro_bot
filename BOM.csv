@@ -27,7 +27,9 @@ Id,Designator,Footprint,Quantity,Designation,Unit Cost (INR),Total Cost (INR),Su
 26,U2,WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm,1,TLV75801PDRV,33.44,33.44,https://mouser.in
 27,U3,adafruit-MAX98357,1,adafruit-MAX98357,179.00,179.00,https://robu.in
 28,U4,XCVR_ESP32-S3-MINI-1-N8,1,ESP32-S3-MINI-1-N8,399.00,399.00,https://robu.in
-29,U5,MODULE_OC09600,1,OC09600,199.00,199.00,https://robu.in
+29,U5,GY-521_MPU6050_Module,1,MPU-6050,199.00,199.00,https://robu.in
 30,U6,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm,1,TP4056,13.00,13.00,https://robu.in
 31,U7,SOT-23-6_Handsoldering,1,DW01,8.00,8.00,https://robu.in
 32,U8,SOT-23-6_Handsoldering,1,FS8205A,9.00,9.00,https://robu.in
+33,RGB1,LED_D5.0mm-4_RGB,1,5mm_RGB_LED_Common_Cathode,5.00,5.00,https://robu.in
+34,LCD1,ILI9225_2.0_TFT_SPI_11P,1,2.0_Inch_SPI_TFT_LCD_ILI9225_176x220,679.00,679.00,https://robu.in/product/2-0-inch-spi-tft-lcd-color-screen-module-ili9225-serial-interface-176-x-220/
