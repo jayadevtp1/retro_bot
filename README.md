@@ -21,7 +21,8 @@ and emotions on a crisp 2-inch LCD screen.
 <img width="740" height="493" alt="pcb" src="https://github.com/user-attachments/assets/0e1496ce-e315-4782-a15d-3305e3fd064e" />
 
 # Final Assembly
-<img width="624" height="419" alt="case" src="https://github.com/user-attachments/assets/8117aa80-d2a6-43e4-9627-ba6bcec27fac" />
+<img width="1045" height="663" alt="image" src="https://github.com/user-attachments/assets/3f28649a-c6bc-49b9-b1dd-9bd0f740b8b5" />
+
 
 
 
